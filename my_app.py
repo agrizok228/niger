@@ -3,7 +3,7 @@ from PyQt5.QtCore import Qt
 
 from inst import *
 from second_win import *
-
+#danya bog seksa
 class MainWin(QWidget):
     def __init__(self):
         super().__init__()
